@@ -1,0 +1,28 @@
+Canon Chord Progression
+
+The standard Canon chord progression (also known as Pachelbel's Canon) is:
+
+C - G - Am - Em - F - C - F - G
+
+or in Roman numerals:
+I - V - vi - iii - IV - I - IV - V
+
+This is one of the most famous chord progressions in Western music, originally from Johann Pachelbel's Canon in D (where it's played in the key of D: D - A - Bm - F#m - G - D - G - A).
+
+The progression is widely used in popular music because of its pleasing and natural-sounding harmonic movement. Many modern songs can be adapted to use this chord progression, which is why it's often called the "magical progression" in popular music.
+
+卡农和弦进行：C - G - Am - Em - F - C - F - G
+
+
+Demo Canon Chord Progression：
+
+    老男孩 (原唱：筷子兄弟)
+    红豆 (原唱：王菲)
+    情非得已 (原唱：庾澄庆)
+    当 (原唱：动力火车)
+    恋爱ing (原唱：五月天)
+    南方姑娘 (原唱：赵雷)
+    富士山下 (原唱：陈奕迅)
+    一生中最爱 (原唱：谭咏麟)
+    好心分手 (原唱：卢巧音/王力宏)
+    K歌之王 (原唱：陈奕迅)
