@@ -101,16 +101,18 @@ vii: F#dim (F#-A-C)
 - Popular song analysis
 
 ## 3. Third Lesson
-### 3.1 Chord Notation Review
+### 3.1 Music Modes
+- Ionian, Dorian, Phrygian, Lydian, Mixolydian, Aeolian, Locrian
+- Sample music & Emotions for each mode
+### 3.2 Music Key(Tonality)
+- The chord progression defines the Key for a song
 
-### 3.2 Tonic-Dominant-Subdominant
-- T-D-S progression rules
-
-### 3.3 D Key Practice
-- "突然好想你" analysis
-
-### 3.4 Chord Decomposition
-- D chord breakdown techniques
+### 3.3 T-S-D Theory
+- Names for each chord: Tonic, Supertonic, Mediant, Subdominant, Dominant, Submediant, Leading tone
+- Function for each chord: T, S, T/M, S, D, T, D
+- Demo
+- Cadence
+- Analysis for common chord progressions
 
 ## 4. Fourth Lesson
 ### 4.1 Review
